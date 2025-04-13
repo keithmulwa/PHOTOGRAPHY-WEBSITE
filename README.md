@@ -37,5 +37,3 @@ If you have questions, feedback, or would like to contribute your own creative w
 Copyright (c) 2025 Keith mulwa
 
 ---
-
-Let me know if you'd like to turn this into a real GitHub project, add screenshots, or even expand it with JavaScript interactivity! 💻✨# PHOTOGRAPHY-WEBSITE
