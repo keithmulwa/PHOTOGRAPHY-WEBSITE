@@ -38,4 +38,4 @@ Copyright (c) 2025 Keith mulwa
 
 ---
 
-Let me know if you'd like to turn this into a real GitHub project, add screenshots, or even expand it with JavaScript interactivity! 💻✨
+Let me know if you'd like to turn this into a real GitHub project, add screenshots, or even expand it with JavaScript interactivity! 💻✨# PHOTOGRAPHY-WEBSITE
